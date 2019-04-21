@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# per LC101:Unit-2 Web Caesar Assignment:
+.vscode/
